@@ -1,0 +1,35 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(233, 244, 244);
+    text-align: center;
+    font-weight: bold;
+    padding: 0cap;
+    margin-inline-start:auto ;
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+div{
+    padding: 5px;
+    margin: 10px;
+    color:antiquewhit;
+    text-align: center;
+}
+h2{
+    color: transparent;
+    -webkit-text-stroke: 1px #03a9f4;
+    font-size: 2em;
+}
+.togglebutton {
+    display: block;
+        margin: 20px 0;
+        padding: 10px 15px;
+        background-color: #13a6bdab;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        margin: 0 auto;
+        cursor: pointer;
+}
